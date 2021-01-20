@@ -12,6 +12,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "ant-design-vue": "^1.7.2",
+    "axios": "^0.21.1",
+    "babel-plugin-import": "^1.13.3",
+    "echarts": "^5.0.1",
     "vue": "^2.6.12",
     "vue-router": "^3.0.1"
   },
